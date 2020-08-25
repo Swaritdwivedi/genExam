@@ -13,6 +13,7 @@ Initially, we need to feed separate word file for questions, cover paper, end pa
 
 ## Running the code
 
+First intsall, docxxompose from pip
 The code can be run on python by typing the command:
 > python genExam.py
 
